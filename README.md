@@ -25,6 +25,7 @@ To run the website locally, follow these steps:
 
 You can have a look at the website [here](https://eduoceans.github.io/password-generator/)
 
+![Screenshot](https://github.com/EduOceans/password-generator/assets/150608334/055bf54d-8e36-4de5-977f-750f6446dfca)
 
 
 ## License
