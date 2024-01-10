@@ -109,7 +109,8 @@ function getPasswordOptions() {
     alert("You have to type Yes or No");
     return;
   }
-  
+
+  // Upper Cased Characters Option
   let upperCaseOption = prompt("Would you like to include upper case characters?", "Yes");
   if (upperCaseOption == null) {
     return;
@@ -118,7 +119,7 @@ function getPasswordOptions() {
     alert("You have to type Yes or No");
     return;
   }
-
+  // Numeric Characters Option
   let numericOption = prompt("Would you like to include numbers?", "Yes");
   if (numericOption == null) {
     return;
@@ -127,7 +128,8 @@ function getPasswordOptions() {
     alert("You have to type Yes or No");
     return;
   }
-
+  
+  // Special Characters Option
   let specialCharactersOption = prompt("Would you like to include special characters?", "Yes"); 
   if (specialCharactersOption == null) {
     return;
